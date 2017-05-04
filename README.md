@@ -17,8 +17,16 @@ Guest 5: 2 bags
 
 In the next round, Guest 1 takes the 2 bags from Guest 3, so now Guest 1 has 4 bags. Guest 3 has none and is out. Guest 5 then takes all 4 bags from Guest 1, and Guest 5 wins: she has all 6 bags!
 
-Which seat would Veruca have to sit in, in order to win all the bags from her guests, if she had a GIANT party and invited [b]4120682[/b] guests?
+Which seat would Veruca have to sit in, in order to win all the bags from her guests, if she had a GIANT party and invited 4120682 guests?
 
-[thank you to Advent of Code!]
+Using the programming language of your choice, calculate this result, and output it embedded in the center of a three-column HTML page, like so:
+
+    |    |    |    |
+    |red | x  |blue|
+    |    |    |    |
+
+The final result should look like the French flag with a number in the middle.
+
+[thank you to Advent of Code for the framework of this puzzle!]
 
 
